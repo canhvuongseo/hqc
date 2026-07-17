@@ -1,0 +1,24 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Máy phát điện Mitsubishi 650kVA",
+  "image": "https://demo.hqcpower.vn/wp-content/uploads/2023/04/may-phat-dien-mitsubishi-650-kva_3150.png",
+  "description": "Máy phát điện Mitsubishi công suất 650kVA nhập khẩu chính hãng.",
+  "brand": {
+    "@type": "Brand",
+    "name": "Mitsubishi"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "reviewCount": "",
+    "bestRating": "5",
+    "worstRating": "1"
+  },
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "VND",
+    "availability": "https://schema.org/InStock"
+  }
+}
