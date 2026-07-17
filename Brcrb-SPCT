@@ -1,0 +1,27 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "BreadcrumbList", 
+  "itemListElement": [{
+    "@type": "ListItem", 
+    "position": 1, 
+    "name": "Trang chủ",
+    "item": "https://demo.hqcpower.vn/"  
+  },{
+    "@type": "ListItem", 
+    "position": 2, 
+    "name": "Máy phát điện công nghiệp",
+    "item": "https://demo.hqcpower.vn/may-phat-dien-cong-nghiep/"  
+  },{
+    "@type": "ListItem", 
+    "position": 3, 
+    "name": "Máy phát điện Cummins",
+    "item": "https://demo.hqcpower.vn/may-phat-dien-cong-nghiep/cummins/"  
+  },{
+    "@type": "ListItem", 
+    "position": 4, 
+    "name": "Máy phát điện Cummins 15kVA",
+    "item": "https://demo.hqcpower.vn/may-phat-dien-cong-nghiep/cummins/15kva/"  
+  }]
+}
+</script>
