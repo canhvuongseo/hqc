@@ -1,0 +1,22 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "BreadcrumbList", 
+  "itemListElement": [{
+    "@type": "ListItem", 
+    "position": 1, 
+    "name": "Trang chủ",
+    "item": "https://demo.hqcpower.vn/"  
+  },{
+    "@type": "ListItem", 
+    "position": 2, 
+    "name": "Tin tức",
+    "item": "https://demo.hqcpower.vn/tin-tuc/"  
+  },{
+    "@type": "ListItem", 
+    "position": 3, 
+    "name": "Tuyển dụng Chuyên viên thiết kế – máy phát điện công nghiệp",
+    "item": "https://demo.hqcpower.vn/tin-tuc/tuyen-dung-chuyen-vien-thiet-ke-may-phat-dien-cong-nghiep/"  
+  }]
+}
+</script>
