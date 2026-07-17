@@ -1,0 +1,21 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Công ty Cổ phần Công nghiệp HQC",
+  "alternateName": "HQC",
+  "url": "https://demo.hqcpower.vn/",
+  "logo": "https://demo.hqcpower.vn/wp-content/webp-express/webp-images/uploads/2026/07/Untitled-21-10.png.webp",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "'0902885686",
+    "contactType": " ",
+    "areaServed": "VN",
+    "availableLanguage": "Vietnamese"
+  },
+  "sameAs": [
+    "https://www.facebook.com/hqcpower.vn/",
+    "https://www.youtube.com/@may-phat-dien-HQC",
+  ]
+}
+</script>
