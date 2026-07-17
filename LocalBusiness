@@ -1,0 +1,30 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Công ty Cổ phần Công nghiệp HQC",
+  "image": "https://demo.hqcpower.vn/wp-content/webp-express/webp-images/uploads/2026/07/Untitled-21-10.png.webp",
+  "@id": "",
+  "url": "https://demo.hqcpower.vn/",
+  "telephone": "'0902885686",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Tầng 2 tòa nhà Bắc Hà, 15 Tố Hữu, phường Thanh Xuân, Hà Nội",
+    "addressLocality": "Hà Nội",
+    "postalCode": "100000",
+    "addressCountry": "VN"
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "opens": "08:00",
+    "closes": "17:00"
+  } 
+}
+</script>
