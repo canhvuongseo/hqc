@@ -1,0 +1,28 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "Câu hỏi 1",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Câu trả lời 1"
+    }
+  },{
+    "@type": "Question",
+    "name": "Câu hỏi 2",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Câu trả lời 2"
+    }
+  },{
+    "@type": "Question",
+    "name": "Câu hỏi 3",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Câu trả lời 3"
+    }
+  }]
+}
+</script>
